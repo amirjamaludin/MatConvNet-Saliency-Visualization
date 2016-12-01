@@ -1,6 +1,8 @@
 # MatConvNet Saliency Visualization
 
 This is a MatConvNet demo of several saliency visualization methods of ConvNet models.
+
+## References
 1. **Error backpropagation:** [Simonyan, K., Vedaldi, A., Zisserman, A.: Deep inside convolutional networks:
 Visualising image classification models and saliency maps.](https://arxiv.org/abs/1312.6034)
 2. **Class Activation Map:** [Zhou, B., Khosla, A., Lapedriza, A., Oliva, A [[GitHub](https://github.com/jimmie33/Caffe-ExcitationBP]., Torralba, A.: Learning deep features
