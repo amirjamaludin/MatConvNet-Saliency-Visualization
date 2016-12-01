@@ -16,4 +16,4 @@ for discriminative localization.](https://arxiv.org/abs/1512.04150) [[GitHub](ht
 ## Installation
 1. [Compile MatConvNet](http://www.vlfeat.org/matconvnet/install/).
 2. Download the model from the links above, the default model of the demo is the [ResNet-152](http://www.vlfeat.org/matconvnet/models/imagenet-resnet-152-dag.mat) and place in `/Models`.
-3. Replace the default **Conv.m** and **Pooling.m** files in the default MatConvNet folder `/MatConvNet/matlab/+dagnn` with ones included.
+3. Replace the default **Conv.m** and **Pooling.m** files in the default MatConvNet folder `/MatConvNet/matlab/+dagnn` with the ones included.
